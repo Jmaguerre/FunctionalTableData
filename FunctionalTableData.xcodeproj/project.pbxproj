@@ -172,6 +172,7 @@
 				4C7A26FD1F2FA0F800360E9B /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 1;
 		};
 		4C7A26FD1F2FA0F800360E9B /* Products */ = {
 			isa = PBXGroup;
